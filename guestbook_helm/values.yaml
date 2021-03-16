@@ -7,7 +7,7 @@ replicaHistory: 3
 
 image:
   repository: gcr.io/heptio-images/ks-guestbook-demo
-  tag: 2
+  tag: 0.2
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
